@@ -1,5 +1,5 @@
 # MOVIE-RECOMMENDATION-SYSTEM
-For a given movie similar movies can be retrieved from the built model
+
 #####  · Performed data preprocessing for movies and ratings dataset
 #####  · K-Nearest Neignbors(K-NN)
 #####  · Using K-Nearest Neighbors, a recommendation system is built<br/>
